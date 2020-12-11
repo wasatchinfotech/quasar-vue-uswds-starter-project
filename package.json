@@ -1,9 +1,9 @@
 {
-  "name": "iscq20",
+  "name": "uswds-quasar-sample",
   "version": "0.0.1",
-  "description": "ISCCS ",
+  "description": "Quasar Vuejs app for USWDS theme",
   "productName": "Quasar App",
-  "author": "wasatch infotech ",
+  "author": "wasatch infotech",
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.vue ./",
