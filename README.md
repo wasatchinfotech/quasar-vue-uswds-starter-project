@@ -15,7 +15,7 @@ Vue.js 2.x
 
 ## Project setup
 
-git clone https://github.com/wasatchinfotech/vue-uswds-starter-project.git
+git clone https://github.com/wasatchinfotech/quasar-vue-uswds-starter-project.git
 
 ```
 npm install
